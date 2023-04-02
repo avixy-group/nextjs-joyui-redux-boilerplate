@@ -1,4 +1,4 @@
-# nextjs-tailwindcss-redux-boilerplate
+# nextjs-joyui-redux-boilerplate
 
 ## Documentation
 
